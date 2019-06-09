@@ -1,3 +1,3 @@
 # JFUtility
 
-A description of this package.
+A small utility package containing file, logging and general utility functions.
